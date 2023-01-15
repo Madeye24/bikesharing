@@ -1,11 +1,11 @@
 # NYC_CITI_BIKESHARING
 Please find the Tableau links below:
 
-Dashboard:
-https://public.tableau.com/shared/WKRXDZSXH?:display_count=n&:origin=viz_share_link
+Dashboard:[link to dashboard](https://public.tableau.com/shared/WKRXDZSXH?:display_count=n&:origin=viz_share_link
+)
 
 Story:
-https://public.tableau.com/shared/YRTB4TX2W?:display_count=n&:origin=viz_share_link
+[link to story](https://public.tableau.com/shared/YRTB4TX2W?:display_count=n&:origin=viz_share_link "link to story")
 
 # OVERVIEW:
 
