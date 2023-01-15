@@ -1,32 +1,37 @@
 # NYC_CITI_BIKESHARING
 Please find the Tableau links below:
+
 Dashboard:
 https://public.tableau.com/shared/WKRXDZSXH?:display_count=n&:origin=viz_share_link
+
 Story:
 https://public.tableau.com/shared/YRTB4TX2W?:display_count=n&:origin=viz_share_link
-* OVERVIEW:
+
+# OVERVIEW:
+
 The purpose of this project was to explore data through visualizations in Tableau for the Newyork CitiBike.
 As CitiBike is very popular mode of transportaion in Newyork, we will explore more about it using different visualizations for our stakeholders. And that might excite the stakeholders to invest in the CitiBiking Project.
 
-* RESULTS:
+# RESULTS:
 
-** Top Starting Location:
+## Top Starting Location:
 
-![Top starting location](https://user-images.githubusercontent.com/111619125/212526136-67255a76-06da-4254-ac1b-9d9abdbebdec.pngM
+![Top starting location](https://user-images.githubusercontent.com/111619125/212527339-31a1c6e5-7917-42db-be34-bcfbdae16be6.png)
+
 
 - We used scatter plot based on starting longitudes and latitudes, and the size was based on the bikes rented from that location.
-- From the scatter plot, The darker spot shows the most concentrated citi bike use![Subscriber and Customers](https://user-images.githubusercontent.com/111619125/212526864-95a37a19-8960-4533-a3ec-5ce0ea0f53e4.png)
-rs and  we can say that Manhattan had the most concentration of bike users.
+- From the scatter plot, The darker spot shows the most concentrated citi bike users and  we can say that Manhattan had the most concentration of bike users.
 
-** Users by Gender:
+## Users by Gender:
 
-![Top starting location](https://user-images.githubusercontent.com/111619125/212526366-65e895a9-18c9-42b4-833c-aa7d54fb26ae.png)
+![Time by gender](https://user-images.githubusercontent.com/111619125/212527350-9ccf0eda-ff67-4bd1-adf3-22e5b74e2337.png)
+
 
 - Check out time by Genders was plotted using trip duration and number of bikers to analyse what gender uses the bike for how long.
 - From the image it shows that the Male use the bike for mostly 5 minutes of time duration.
 - Although Females tend to Ride for longer period of time.
 
-** Trips By Weekday for Each Hour:
+## Trips By Weekday for Each Hour:
 
 ![trips by weekday](https://user-images.githubusercontent.com/111619125/212526594-c74659e7-dfa2-45bb-8c7b-dfccd02e90bb.png)
 
@@ -34,7 +39,7 @@ rs and  we can say that Manhattan had the most concentration of bike users.
 -Weekday look different than the Weekends.
 -Saturday look much busier than sundays.
 
-** Trips By weekday and Gender:
+## Trips By weekday and Gender:
 
 ![trips by gender heatmap](https://user-images.githubusercontent.com/111619125/212526727-9bf7c582-79b9-432d-829e-4f3410b1ef9a.png)
 
@@ -42,7 +47,7 @@ rs and  we can say that Manhattan had the most concentration of bike users.
 - We can see that the Male proportion is higher than the Females
 - Also, Thursday remains the busiest of all days.
 
-** Subscribers and Customers:
+## Subscribers and Customers:
 
 ![Subscriber and Customers](https://user-images.githubusercontent.com/111619125/212526884-0fbb3c3a-d6ed-4434-ab7a-63533d416ac4.png)
 
@@ -51,7 +56,8 @@ rs and  we can say that Manhattan had the most concentration of bike users.
 - Also, there are more subscriber users than the walk in customers.
 - The customers use the bikes on the weekends.
 
-* Summary:
+# Summary:
+
 Citi Bike is a privately own public bike service used all around Newyork city as well as New Jersey. Through our visualizations we found the following:
 
 - Manhattan has the most bike users, so the stakeholders can invest in this area more.
